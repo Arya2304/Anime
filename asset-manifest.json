@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Anime/static/css/main.8ab86cdb.css",
+    "main.js": "/Anime/static/js/main.77ccd860.js",
+    "static/js/488.2bcc9612.chunk.js": "/Anime/static/js/488.2bcc9612.chunk.js",
+    "static/media/Skyfall  - Demon Slayer [AMV].mp4": "/Anime/static/media/Skyfall  - Demon Slayer [AMV].51eb7629b2999c083761.mp4",
+    "static/media/Sparkle  Your Name AMV.mp4": "/Anime/static/media/Sparkle  Your Name AMV.01b859fd5d7deff9dbf5.mp4",
+    "static/media/Junction Animation 自主制作アニメ.mp4": "/Anime/static/media/Junction Animation 自主制作アニメ.808f192e28303081439d.mp4",
+    "static/media/[4k] One Piece  Notion  - [EditAMV].mp4": "/Anime/static/media/[4k] One Piece  Notion  - [EditAMV].6b08f78b43134e01b633.mp4",
+    "static/media/luffy.jpg": "/Anime/static/media/luffy.978080cd37513a5c9486.jpg",
+    "static/media/service-img.gif": "/Anime/static/media/service-img.f46385c03251945b3bcb.gif",
+    "static/media/profile2.jpg": "/Anime/static/media/profile2.157963e0e8fe4adde49d.jpg",
+    "index.html": "/Anime/index.html",
+    "main.8ab86cdb.css.map": "/Anime/static/css/main.8ab86cdb.css.map",
+    "main.77ccd860.js.map": "/Anime/static/js/main.77ccd860.js.map",
+    "488.2bcc9612.chunk.js.map": "/Anime/static/js/488.2bcc9612.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ab86cdb.css",
+    "static/js/main.77ccd860.js"
+  ]
+}
